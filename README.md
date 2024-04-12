@@ -59,3 +59,7 @@
 alt="台灣第一大 全球前3大 你所不知道的這家公司？" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube 
 
+<a href="https://www.youtube.com/watch?v=Lek7UQ1gh3A" target="_blank"><img src="https://github.com/C109252108/113-03-01/assets/161835219/8055af91-5875-41a8-aaac-4c16a9a098f0" 
+alt="台灣第一大 全球前3大 你所不知道的這家公司？" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube 
+
