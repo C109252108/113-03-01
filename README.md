@@ -54,3 +54,8 @@
 ● ***自來水配管丙級***
 ● ***油壓丙級***
 ● ***自動化控制丙級***
+
+<a href="https://youtu.be/kwTG_curpkw" target="_blank"><img src="https://github.com/yndon/Readme.md/blob/main/IMG/test.webp" 
+alt="台灣第一大 全球前3大 你所不知道的這家公司？" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube 
+
